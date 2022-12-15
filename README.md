@@ -64,8 +64,8 @@ This application allows you to navigate different link routes that display data 
 
 4. To start the application, run: `npm run start`
 
-[](./Assets/Images/Screen%20Shot%20%231.png)
-[](./Assets/Images/Screen%20Shot%20%232.png)
+[](./Assets/Images/Social%20Network%231.jpg)
+[](./Assets/Images/Social%20Network%20%232.jpg)
 
 <a name="contributors"></a>
 
