@@ -32,3 +32,13 @@ This is a back end application for a Social Network created using a configured w
 - Mongoose
 - Mongoose validator
 - Moment.js
+
+## ⚙️ Installation
+
+1. Git clone this repository onto your local machine and navigate to the file on your terminal. _This can also be done by opening the file on Visual Studios and running it through the intergated terminal._
+
+2. In order for the app to function correctly, ensure you have the latest or most stable version of Node.js.
+
+3. Run `npm install` to download.
+
+4. To start the application, run: `npm run start`
